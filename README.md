@@ -2,29 +2,29 @@
   <img height="300" src="https://i.ibb.co.com/BKd3JGcc/Add-a-heading-3.png"  />
 </div>
 
-###
+
 
 <h3 align="left"># ShehabSarar</h3>
 
-###
 
-<p align="left">**Full Stack Developer | Web Developer** specializing in Tailwind CSS, JavaScript, React, Node.js, and MongoDB.</p>
 
-###
+<p align="left">Full Stack Developer | Web Developer** specializing in Tailwind CSS, JavaScript, React, Node.js, and MongoDB.</p>
+
+
 
 <h3 align="left">## About Me</h3>
 
-###
+
 
 <p align="left">I'm a passionate web developer with a strong foundation in both frontend and backend technologies. I enjoy building dynamic and responsive websites and web applications. Currently, I'm focusing on mastering modern JavaScript frameworks and exploring backend technologies to create scalable applications. I’m always eager to learn and improve my skills through real-world projects.</p>
 
 ###
 
-<h3 align="left">## Current Activities</h3>
+<h3 align="left">Current Activities</h3>
 
 ###
 
-<p align="left">- Exploring **Next.js** for building server-side rendered applications.<br>- Building a **personal portfolio** to showcase my projects and skills.<br>- Contributing to **open-source projects** in JavaScript and React.<br>- Learning advanced **Node.js** and **MongoDB** techniques for building scalable backends.</p>
+<p align="left">- Exploring Next.js for building server-side rendered applications.<br>- Building a personal portfolio to showcase my projects and skills.<br>- Contributing to open-source projects in JavaScript and React.<br>- Learning advanced Node.js and MongoDB techniques for building scalable backends.</p>
 
 ###
 
